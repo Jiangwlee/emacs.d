@@ -54,6 +54,9 @@
 (require-package 'command-log-mode)
 
 (require 'init-evil)
+(require 'init-ace)
+(require 'init-java)
+
 ;;(require 'init-frame-hooks)
 ;;(require 'init-xterm)
 (require 'init-themes)
@@ -93,7 +96,7 @@
 ;;(require 'init-erlang)
 ;;(require 'init-javascript)
 ;;(require 'init-php)
-;;(require 'init-org)
+(require 'init-org)
 ;;(require 'init-nxml)
 ;;(require 'init-html)
 ;;(require 'init-css)
